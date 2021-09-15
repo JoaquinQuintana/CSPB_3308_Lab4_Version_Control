@@ -1,2 +1,2 @@
-# Lab4_Version_Control
-Working with github for Lab 4 version control
+Name: Joaquin Quintana
+Assignment: Lab 4 - Version Control
