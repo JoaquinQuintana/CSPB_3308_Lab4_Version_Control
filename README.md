@@ -5,4 +5,4 @@ l
 
 OKay mate
 
-Not edited or pulled by Alex has changed readme.md file
+Partner: Alex Thomas
